@@ -1,0 +1,5 @@
+https://hvg.hu/rss/sport
+https://index.hu/sport/rss/
+https://telex.hu/rss/mstag/sport
+https://www.origo.hu/contentpartner/rss/sport/origo.xml
+http://origo.hu/contentpartner/rss/sport/origo.xml

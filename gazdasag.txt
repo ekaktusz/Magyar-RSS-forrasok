@@ -1,0 +1,4 @@
+https://hvg.hu/rss/gazdasag
+https://index.hu/gazdasag/rss/
+https://telex.hu/rss/mstag/gazdasag
+http://origo.hu/contentpartner/rss/uzletinegyed/origo.xml

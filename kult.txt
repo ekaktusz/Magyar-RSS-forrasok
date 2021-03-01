@@ -1,0 +1,4 @@
+https://hvg.hu/rss/kultura
+https://index.hu/kultur/rss/
+https://telex.hu/rss/mstag/kult
+https://www.origo.hu/contentpartner/rss/kultura/origo.xml

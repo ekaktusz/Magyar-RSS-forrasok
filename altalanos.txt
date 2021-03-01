@@ -1,0 +1,14 @@
+https://telex.hu/rss
+https://merce.hu/feed/
+https://24.hu/feed
+https://index.hu/24ora/rss/
+https://444.hu/feed
+https://www.origo.hu/contentpartner/rss/origoall/origo.xml
+https://pestisracok.hu/feed/
+https://888.hu/rss/
+https://magyarnemzet.hu/feed/
+https://www.portfolio.hu/rss/all.xml
+https://hvg.hu/rss
+https://velvet.hu/24ora/rss/
+https://hirtv.hu/rss
+https://hang.hu/feed/

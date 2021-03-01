@@ -1,0 +1,6 @@
+https://index.hu/techtud/rss/
+https://hvg.hu/rss/tudomany
+https://telex.hu/rss/mstag/tudomany
+https://telex.hu/rss/mstag/tech
+https://www.origo.hu/contentpartner/rss/techbazis/origo.xml
+https://www.origo.hu/contentpartner/rss/tudomany/origo.xml
